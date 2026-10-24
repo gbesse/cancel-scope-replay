@@ -1,0 +1,1 @@
+DESCRIPTION = {'fr': 'Montrer les tâches Python qui continuent après annulation du parent', 'en': 'Show Python tasks continuing after their parent is cancelled', 'es': 'Mostrar tareas Python que continúan tras cancelar al padre'}
